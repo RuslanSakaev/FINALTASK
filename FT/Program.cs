@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-// Задача: 
+﻿// Задача: 
 // Написать программу, которая из имеющегося массива строк,
 // формирует массив из строк, 
 // длина которого меньше либо равна 3 символа.
