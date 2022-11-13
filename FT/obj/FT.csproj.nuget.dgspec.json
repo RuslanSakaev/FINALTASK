@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Обучение\\Гигбрейнс\\Итоговое задание 1 четветь\\finalTask\\FT\\FT.csproj": {}
+    "I:\\Обучение\\Гигбрейнс\\Итоговое задание 1 четветь\\finalTask\\FT\\FT.csproj": {}
   },
   "projects": {
-    "D:\\Обучение\\Гигбрейнс\\Итоговое задание 1 четветь\\finalTask\\FT\\FT.csproj": {
+    "I:\\Обучение\\Гигбрейнс\\Итоговое задание 1 четветь\\finalTask\\FT\\FT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Обучение\\Гигбрейнс\\Итоговое задание 1 четветь\\finalTask\\FT\\FT.csproj",
+        "projectUniqueName": "I:\\Обучение\\Гигбрейнс\\Итоговое задание 1 четветь\\finalTask\\FT\\FT.csproj",
         "projectName": "FT",
-        "projectPath": "D:\\Обучение\\Гигбрейнс\\Итоговое задание 1 четветь\\finalTask\\FT\\FT.csproj",
-        "packagesPath": "C:\\Users\\555\\.nuget\\packages\\",
-        "outputPath": "D:\\Обучение\\Гигбрейнс\\Итоговое задание 1 четветь\\finalTask\\FT\\obj\\",
+        "projectPath": "I:\\Обучение\\Гигбрейнс\\Итоговое задание 1 четветь\\finalTask\\FT\\FT.csproj",
+        "packagesPath": "C:\\Users\\RUS\\.nuget\\packages\\",
+        "outputPath": "I:\\Обучение\\Гигбрейнс\\Итоговое задание 1 четветь\\finalTask\\FT\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\555\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\RUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
