@@ -13,9 +13,9 @@
 
 // string[] array = { "hello", "2", "world", ":-)" };
 // string[] array = { "1234", "1567", "-2", "computer science" };
-string[] array = { "Russia", "Denmark", "Kazan" };
+string[] array = { "Russia", "Denmark", "Kazan" }; 
 
-string[] GetShortWordsArray(string[] array)
+string[] ArrayTrimmedStrings(string[] array)
 {
     int length = array.Length;
     string[] result = new string[length];
@@ -33,8 +33,8 @@ string[] GetShortWordsArray(string[] array)
 
     return result;
 }
-string[] arr = array;
-string[] shortArray = GetShortWordsArray(arr);
-Console.WriteLine("[{0}] -> [{1}]", string.Join(", ", arr), string.Join(", ", shortArray));
+string[] receivedArray = array;
+string[] shortArray = ArrayTrimmedStrings(arr);
+Console.WriteLine("[{0}] -> [{1}]", string.Join(", ", receivedArray), string.Join(", ", shortArray));
 
 
