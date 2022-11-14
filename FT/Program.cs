@@ -34,7 +34,7 @@ string[] ArrayTrimmedStrings(string[] array)
     return result;
 }
 string[] receivedArray = array;
-string[] shortArray = ArrayTrimmedStrings(arr);
+string[] shortArray = ArrayTrimmedStrings(array);
 Console.WriteLine("[{0}] -> [{1}]", string.Join(", ", receivedArray), string.Join(", ", shortArray));
 
 
