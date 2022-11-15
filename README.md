@@ -57,3 +57,5 @@ string[] array = { "Russia", "Denmark", "Kazan" };
 ~~~
 [Russia, Denmark, Kazan] -> []
 ~~~
+
+Отправляем решение в репозиторий `GitHub`.
